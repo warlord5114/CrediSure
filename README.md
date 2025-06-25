@@ -86,15 +86,4 @@ The solution proposes a scalable and insightful tool that can be integrated into
 
 ---
 
-## 👤 Author
-
-**Het Patel**
-Undergraduate Student, IIT Guwahati
-
-* GitHub: [warlord5114](https://github.com/warlord5114)
-* LinkedIn: [Het Patel](https://www.linkedin.com/in/hetpatel77)
-* Email: [hetpatel77@gmail.com](mailto:hetpatel77@gmail.com)
-
----
-
 
